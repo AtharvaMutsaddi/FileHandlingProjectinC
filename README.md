@@ -29,7 +29,7 @@ Enter Name of File: file.txt
 
 Enter min years of experience you want: 4
 ```
-The program will now alphabetically store all of the skills that you require in your candidate, and also try to find the number of years of experience in the resume file by searching for the word "years"
+The program will now alphabetically store all of the skills that you require in your candidate, and also try to find the number of years of experience in the resume file by searching for the word "years". **Please ensure while entering skill, do not put any spaces between the words**
 
 
 ## Aim of this Project
