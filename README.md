@@ -10,7 +10,7 @@ The python file "data.py" creates a DataFrame out of the csv file and plots a th
 
 ## Installation
 
-Simply download zip and extract, or clone this git repo
+Simply download zip and extract, or clone this git repo. Make sure you have matplotlib and pandas in python to run this.
 
 ## Usage
 
